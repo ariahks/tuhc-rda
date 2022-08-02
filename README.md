@@ -1,10 +1,16 @@
 # Rex Duodecim Angelus
-Mod for the Unofficial Homestuck Collection that adds the fan animation Rex Duodecim Angelus into the comic, specifically after page 3763 (right before entering Scratch's apartment).  
+Mod for the Unofficial Homestuck Collection that adds the fan animation, Rex Duodecim Angelus, to the comic at a location chosen in the settings.
 
-This fan animation was not in any way made by me. The animation itself contains credits for everyone who worked on it, even when viewed inside of the comic.  
+By default, the animation is added after page 3763, right before entering Doc Scratch's apartment. This is the location recommended by the mod author.
 
-The original video is linked on its story page by default, though that can be disabled. You can also find it [here](https://www.youtube.com/watch?v=-19Up0dLzNw). 
+This fan animation was not in any way made by me. The animation itself contains credits for everyone who worked on it, even when viewed inside of the comic.
+
+By default, you can find a link to the original video on the flash page (I've used previously unused page 2399), however this can be disabled in the settings.
+
+You can also find a link [here](https://www.youtube.com/watch?v=-19Up0dLzNw). 
+
+If you have any suggestions for alternate places to put the flash, please create an 'issue' on the github repository.
 
 ## Installation
-To install, put the `rda` *folder* in your mods directory.
+To install, download the latest release from the `Releases` sidebar, and put the `rda` *folder* in your mods directory.
 
